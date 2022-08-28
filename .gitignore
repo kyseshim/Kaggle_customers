@@ -15,3 +15,5 @@ data/olist_products_dataset.csv
 data/olist_sellers_dataset.csv
 
 data/product_category_name_translation.csv
+
+olist_rfm.csv
